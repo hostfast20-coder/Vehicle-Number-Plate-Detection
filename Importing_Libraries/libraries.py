@@ -9,3 +9,4 @@ import easyocr
 import imutils
 import random
 
+# we upload this imported modules in Reading.py
